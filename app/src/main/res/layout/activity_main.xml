@@ -39,4 +39,10 @@
     android:text="Muksit testing"
     android:textSize="30sp"></TextView>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Toufic testing again"
+        android:textSize="40sp"/>
+
 </LinearLayout>
