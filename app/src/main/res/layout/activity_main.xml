@@ -26,5 +26,11 @@
         android:hint="Show the name"
         android:id="@+id/name"
         android:textColor="@color/black"/>
+    <EditText
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:hint="Show the edit"
+    android:id="@+id/edit"
+    android:textColor="@color/black"/>
 
 </LinearLayout>
