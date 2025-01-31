@@ -33,4 +33,10 @@
     android:id="@+id/edit"
     android:textColor="@color/black"/>
 
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Muksit testing"
+    android:textSize="30sp"></TextView>
+
 </LinearLayout>
